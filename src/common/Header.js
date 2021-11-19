@@ -32,21 +32,13 @@ const Header = () => {
                 Schedule
               </Link>
             </li>
-            <li>
-              <Link className='nav-link scrollto' to='#venue'>
-                Venue
-              </Link>
-            </li>
+
             <li>
               <Link className='nav-link scrollto' to='#hotels'>
                 Hotels
               </Link>
             </li>
-            <li>
-              <Link className='nav-link scrollto' to='#gallery'>
-                Gallery
-              </Link>
-            </li>
+
             <li>
               <Link className='nav-link scrollto' to='#supporters'>
                 Sponsors
